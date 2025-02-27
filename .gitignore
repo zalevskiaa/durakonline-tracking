@@ -1,0 +1,13 @@
+venv*/
+__pycache__/
+.ipynb_checkpoints/
+args.yaml
+
+yolov*.pt
+
+/app/settings.py
+/ml/label-studio-ml-backend/
+/photomaker/
+
+/carve-bboxes-for-classification-training/
+/datasets/

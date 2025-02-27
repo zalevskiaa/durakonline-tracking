@@ -1,0 +1,9 @@
+# label-studio
+
+# ipython
+# jupyterlab
+
+opencv-python==4.11.0.86
+PyQt5==5.15.11
+
+ultralytics==8.3.70
